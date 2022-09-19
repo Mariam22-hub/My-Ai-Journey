@@ -10,7 +10,6 @@ As for a book reference, my choice is Hands-on Machine Learning with Scikit-Lear
 I'll be adding more topics to the tables and updating this description as i go along
 
 ## Data Analysis
-<br>
 | Topics to Learn ( Data Analysis ) | Progress |                               
 | --- | --- |
 | Python Programming | :heavy_check_mark: |
@@ -28,7 +27,7 @@ I'll be adding more topics to the tables and updating this description as i go a
 <br>
 
 ## Machine Learning
-<br>
+
 | Topic to Learn ( Machine Learning ) | Progress | 
 | --- | --- |
 | Intro to Machine Learning | -- |
