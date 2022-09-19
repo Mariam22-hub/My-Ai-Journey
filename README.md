@@ -4,4 +4,11 @@ In this respository, i'll be documenting my journey to learning Ai. Starting fro
 | Topics to Learn | Progress |
 | --- | --- |
 | Python Programming | :heavy_check_mark: |
+| SQL | :heavy_check_mark: |
+| Python Database Connectivity | --- |
+| Web Scarping | :heavy_check_mark: |
+| Descriptive Statistics | :heavy_check_mark: |
+| Inferential Statistics | --- |
+| Probablity | --- |
+| Numpy | --- |
 
