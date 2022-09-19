@@ -25,7 +25,7 @@ I'll be adding more topics to the tables and updating this description as i go a
 | Data Visualization | --- |
 
 
-
+<br>
 
 ## Machine Learning
 | Topic to Learn ( Machine Learning ) | Progress | 
