@@ -41,6 +41,7 @@ I'll be adding more topics to the tables and updating this description as i go a
 - Python Programming & OOP
 - Software Engineering **Solid Principles** and **Design Patterns**
 - [Web Scraping](https://github.com/Mariam22-hub/My-Ai-Journey/tree/main/Web%20Scraping)
+  - [Project 1](https://github.com/Mariam22-hub/My-Ai-Journey/tree/main/Web%20Scraping/Top%20250%20rated%20movies) uses **BeautifulSoup4** library Requests libraries to    scrape the IMDB website, to store the names, ranks, ratings, and release dates of all the Top 250 rated movies
 - Database Design
 - Sql ( Hackerrank Badge )
 
