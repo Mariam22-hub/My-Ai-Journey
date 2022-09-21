@@ -19,7 +19,7 @@ I'll be adding more topics to the tables and updating this description as i go a
 | Descriptive Statistics | :heavy_check_mark: |
 | Inferential Statistics | --- |
 | Probablity | --- |
-| Numpy | --- |
+| Numpy | :heavy_check_mark: |
 | Pandas | --- |
 | Data Visualization | --- |
 
