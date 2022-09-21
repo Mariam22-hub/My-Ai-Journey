@@ -32,3 +32,11 @@ I'll be adding more topics to the tables and updating this description as i go a
 | --- | --- |
 | Intro to Machine Learning | -- |
 | Linear Regressions | -- |
+
+
+### Topics i'd learned before creating this repository
+- Python Programming & OOP
+- Software Engineering **Solid Principles** and **Design Patterns**
+- Web Scraping
+- Database Design
+- Sql ( Hackerrank Badge )
