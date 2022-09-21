@@ -44,5 +44,6 @@ I'll be adding more topics to the tables and updating this description as i go a
 - Database Design
 - Sql ( Hackerrank Badge )
 
+<br>
 
 ### Week 1
