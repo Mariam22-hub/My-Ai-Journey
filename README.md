@@ -40,7 +40,7 @@ I'll be adding more topics to the tables and updating this description as i go a
 ### Topics i'd learned before creating this journey repository
 - Python Programming & OOP
 - Software Engineering **Solid Principles** and **Design Patterns**
-- Web Scraping
+- [Web Scraping](https://github.com/Mariam22-hub/My-Ai-Journey/tree/main/Web%20Scraping)
 - Database Design
 - Sql ( Hackerrank Badge )
 
