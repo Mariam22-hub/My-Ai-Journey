@@ -4,8 +4,8 @@ Starting from Data Analysis to Deep Learning, i'll be posting all the projects i
 
 *So whish me Luck :)) !*
 
-I'll be studying from Jose Portilla's Data science and Machine Learning 2022 course on udemy, as well as Alexey Gregorev's ML zoomcamp
-As for a book reference, my choice is Hands-on Machine Learning with Scikit-Learn, Keras, and Tensorflow by Aurelien Geron
+I'll be studying from **Jose Portilla's Data science and Machine Learning 2022 course** on Udemy, as well as **Alexey Gregorev's ML zoomcamp**
+As for a book reference, my choice is **Hands-on Machine Learning with Scikit-Learn, Keras, and Tensorflow by Aurelien Geron**
 
 I'll be adding more topics to the tables and updating this description as i go along
 
