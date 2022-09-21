@@ -42,7 +42,7 @@ I'll be adding more topics to the tables and updating this description as i go a
 - Software Engineering **Solid Principles** and **Design Patterns**
 - [Web Scraping](https://github.com/Mariam22-hub/My-Ai-Journey/tree/main/Web%20Scraping)
   - [Top 250 Rated Movies Project](https://github.com/Mariam22-hub/My-Ai-Journey/tree/main/Web%20Scraping/Top%20250%20rated%20movies) uses **BeautifulSoup4** and **Requests** libraries to    scrape the IMDB website, to store the names, ranks, ratings, and release dates of all the **Top 250 rated movies**
-  - [Real Estate Project] (https://github.com/Mariam22-hub/My-Ai-Journey/tree/main/Web%20Scraping/Real%20Estate%20housing) uses **BeautifulSoup4** and **Requests** libraries to scrape the [Pararius](https://www.pararius.com/apartments/amsterdam) website. I used the csv library to store the names, locations, prices, and surface areas of each apartment in a csv file 
+  - [Real Estate Project](https://github.com/Mariam22-hub/My-Ai-Journey/tree/main/Web%20Scraping/Real%20Estate%20housing) uses **BeautifulSoup4** and **Requests** libraries to scrape the [Pararius](https://www.pararius.com/apartments/amsterdam) website. I used the csv library to store the names, locations, prices, and surface areas of each apartment in a csv file 
 - Database Design
 - Sql ( Hackerrank Badge )
 
