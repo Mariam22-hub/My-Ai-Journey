@@ -60,4 +60,5 @@ For this week, i decided to revise some descriptive statistics since i was a lit
 - Measures of central Tendency ( Mean, Median, Mode, Weighted mean )
 - Measures of dispersion ( Variance, Standard Deviation, Range, Interquartile ranges, coefficient of variation
 - Central Limit Theorm
+
 Udacity's [Introduction to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827) is a great source for either revision or learning from scratch
