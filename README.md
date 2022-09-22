@@ -56,4 +56,8 @@ I'll be adding more topics to the tables and updating this description as i go a
 4. Intro to Machine Learning
 
 #### 1. Descriptive Statistics
-
+For this week, i decided to revise some descriptive statistics since i was a little rusty. I went over the following topics:
+- Measures of central Tendency ( Mean, Median, Mode, Weighted mean )
+- Measures of dispersion ( Variance, Standard Deviation, Range, Interquartile ranges, coefficient of variation
+- Central Limit Theorm
+Udacity's [Introduction to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827) is a great source for either revision or learning from scratch
