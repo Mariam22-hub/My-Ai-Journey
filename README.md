@@ -2,7 +2,7 @@
 In this respository, i'll be documenting my journey to learning Ai. 
 Starting from Data Analysis to Deep Learning, i'll be posting all the projects i've worked on and the topics i've learned throughout the upcoming weeks. 
 
-*So whish me Luck :)) !*
+*So whish me Luck :))*
 
 I'll be studying from [**Jose Portilla's Data science and Machine Learning 2022 course**](https://www.udemy.com/course/python-for-machine-learning-data-science-masterclass/) on Udemy, as well as [**Alexey Gregorev's ML zoomcamp**](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp).
 As for a book reference, my choice is [**Hands-on Machine Learning with Scikit-Learn, Keras, and Tensorflow by Aurelien Geron**](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646)
@@ -58,7 +58,7 @@ I'll be adding more topics to the tables and updating this description as i go a
 #### 1. Descriptive Statistics
 For this week, i decided to revise some descriptive statistics since i was a little rusty. I went over the following topics:
 - Measures of central Tendency ( Mean, Median, Mode, Weighted mean )
-- Measures of dispersion ( Variance, Standard Deviation, Range, Interquartile ranges, coefficient of variation
+- Measures of dispersion ( Variance, Standard Deviation, Range, Interquartile ranges, coefficient of variation )
 - Central Limit Theorm
 
 Udacity's [Introduction to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827) is a great source for either revising or learning about descriptive statistics from scratch
