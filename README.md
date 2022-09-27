@@ -58,7 +58,7 @@ I'll be adding more topics to the tables and updating this description as i go a
 #### 1. Descriptive Statistics
  For this week, i decided to revise some descriptive statistics since i was a little rusty. I went over the following topics:
 - [Measures of central Tendency](https://github.com/Mariam22-hub/My-Ai-Journey/blob/main/Week1/Measures%20of%20central%20tendency.md) ( Mean, Median, Mode, Weighted mean )
-- Measures of dispersion ( Variance, Standard Deviation, Range, Interquartile ranges, coefficient of variation )
+- [Measures of dispersion](https://github.com/Mariam22-hub/My-Ai-Journey/blob/main/Week1/Measures%20of%20Dispersion.md) ( Variance, Standard Deviation, Range, Interquartile ranges, coefficient of variation )
 - Central Limit Theorm
 
 Udacity's [Introduction to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827) is a great source for either revising or learning descriptive statistics from scratch
