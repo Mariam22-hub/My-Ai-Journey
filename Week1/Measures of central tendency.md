@@ -47,7 +47,7 @@ When the distribution has an even number of observations, the median value is th
 
 52, 54, 54, 54, 55, 56, 57, 57, 58, 58, 60, 60
 
-Advantage of the median:
+### Advantage of the median:
 
 The median is less affected by outliers and skewed data than the mean, and is usually the preferred measure of central tendency when the distribution is not symmetrical.
 
@@ -67,7 +67,7 @@ Looking at the retirement age distribution again:
 
 The mean is calculated by adding together all the values (54+54+54+55+56+57+57+58+58+60+60 = 623) and dividing by the number of observations (11) which equals 56.6 years.
 
-Advantage of the mean:
+### Advantage of the mean:
 
 The mean can be used for both continuous and discrete numeric data.
 
@@ -80,3 +80,11 @@ As the mean includes every value in the distribution the mean is influenced by o
 What else do I need to know about the mean?
 
 The population mean is indicated by the Greek symbol µ (pronounced ‘mu’). When the mean is calculated on a distribution from a sample it is indicated by the symbol x̅ (pronounced X-bar).
+
+<hr>
+
+## How does the shape of a distribution influence the Measures of Central Tendency?
+
+### Symmetrical distributions:
+
+When a distribution is symmetrical, the mode, median and mean are all in the middle of the distribution. The following graph shows a larger retirement age dataset with a distribution which is symmetrical. The mode, median and mean all equal 58 years.
