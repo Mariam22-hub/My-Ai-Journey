@@ -7,7 +7,7 @@ A measure of central tendency (also referred to as measures of centre or central
 There are three main measures of central tendency: the mode, the median and the mean. Each of these measures describes a different indication of the typical or central value in the distribution.
 
 
-### 1.What is the mode?
+### 1. What is the mode?
 
 The mode is the most commonly occurring value in a distribution.
 
@@ -30,3 +30,27 @@ It is also possible for there to be more than one mode for the same distribution
 In some cases, particularly where the data are continuous, the distribution may have no mode at all (i.e. if all values are different).
 
 In cases such as these, it may be better to consider using the median or mean, or group the data in to appropriate intervals, and find the modal class.
+
+<\hr>
+
+## 2. What is the median?
+
+The median is the middle value in distribution when the values are arranged in ascending or descending order.
+
+The median divides the distribution in half (there are 50% of observations on either side of the median value). In a distribution with an odd number of observations, the median value is the middle value.
+
+Looking at the retirement age distribution (which has 11 observations), the median is the middle value, which is 57 years:
+
+54, 54, 54, 55, 56, 57, 57, 58, 58, 60, 60
+
+When the distribution has an even number of observations, the median value is the mean of the two middle values. In the following distribution, the two middle values are 56 and 57, therefore the median equals 56.5 years:
+
+52, 54, 54, 54, 55, 56, 57, 57, 58, 58, 60, 60
+
+Advantage of the median:
+
+The median is less affected by outliers and skewed data than the mean, and is usually the preferred measure of central tendency when the distribution is not symmetrical.
+
+Limitation of the median:
+
+The median cannot be identified for categorical nominal data, as it cannot be logically ordered.
