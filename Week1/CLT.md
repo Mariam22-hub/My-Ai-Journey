@@ -29,7 +29,8 @@ The mean of the sampling distribution is the mean of the population.
   #### μM = μ
   
 The standard deviation of the sampling distribution is the standard deviation of the population divided by the square root of the sample size.
-  ![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT18xdqNAPuZRUxOAYlTBPP7bY424Mxankd-Ixh0oplxSFSIx2UgSXOLNxjmposkgwVpQ&usqp=CAU)
+
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT18xdqNAPuZRUxOAYlTBPP7bY424Mxankd-Ixh0oplxSFSIx2UgSXOLNxjmposkgwVpQ&usqp=CAU" height = 50% width = 50%>
 
 Where:
 - X̄ is the sampling distribution of the sample means
@@ -96,7 +97,8 @@ Suppose that you repeat this procedure 10 times, taking samples of five retirees
 60.8	57.8	62.2	68.6	67.4	67.8	68.3	65.6	66.5	62.1
 
 If you repeat the procedure many more times, a histogram of the sample means will look something like this:
-![image](https://cdn.scribbr.com/wp-content/uploads/2022/07/Sampling-distribution-of-the-mean-1.webp)
+
+<img src = "https://cdn.scribbr.com/wp-content/uploads/2022/07/Sampling-distribution-of-the-mean-1.webp" width = 50% height = 50%>
 
 Although this sampling distribution is more normally distributed than the population, it still has a bit of a left skew.
 
@@ -106,7 +108,8 @@ Notice also that the spread of the sampling distribution is less than the spread
 
 ### 2) Discrete distribution
 Approximately 10% of people are left-handed. If we assign a value of 1 to left-handedness and a value of 0 to right-handedness, the probability distribution of left-handedness for the population of all humans looks like this:
-![image](https://cdn.scribbr.com/wp-content/uploads/2022/07/central-limit-theorem-discrete-distribution.png)
+
+<img src = "https://cdn.scribbr.com/wp-content/uploads/2022/07/central-limit-theorem-discrete-distribution.png" width = 50% height = 50%>
 
 The population mean is the proportion of people who are left-handed (0.1). The population standard deviation is 0.3.
 
@@ -125,7 +128,8 @@ Imagine you repeat this process 10 times, randomly sampling five people and calc
 #### Example: Central limit theorem; means of 10 small samples
 0	0	0.4	0.2	0.2	0	0.4	0
 If you repeat this process many more times, the distribution will look something like this:
-![image](https://cdn.scribbr.com/wp-content/uploads/2022/07/central-limit-theorem-small-samples.png)
+
+<img src = "https://cdn.scribbr.com/wp-content/uploads/2022/07/central-limit-theorem-small-samples.png" width = 50% height = 50%>
 
 The sampling distribution isn’t normally distributed because the sample size isn’t sufficiently large for the central limit theorem to apply.
 
