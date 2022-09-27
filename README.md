@@ -9,8 +9,8 @@ As for a book reference, my choice is [**Hands-on Machine Learning with Scikit-L
 
 I'll be adding more topics to the tables and updating this description as i go along
 
-## Data Analysis
-| Topics to Learn ( Data Analysis ) | Progress |                               
+## Machine Learning
+| Topic to Learn ( Machine Learning ) | Progress |                              
 | --- | --- |
 | Python Programming | :heavy_check_mark: |
 | SQL | :heavy_check_mark: |
@@ -23,16 +23,7 @@ I'll be adding more topics to the tables and updating this description as i go a
 | Inferential Statistics | --- |
 | Probablity | --- |
 | Numpy | :heavy_check_mark: |
-| Pandas | --- |
-| Data Visualization | --- |
-
-
-<br>
-
-## Machine Learning
-
-| Topic to Learn ( Machine Learning ) | Progress | 
-| --- | --- |
+| Pandas | --- | 
 | Intro to Machine Learning | -- |
 | Linear Regressions | -- |
 
