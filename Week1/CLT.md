@@ -117,6 +117,7 @@ Imagine that you take a random sample of five people and ask them whether theyâ€
 
 #### Example: Central limit theorem; sample of n = 5
 0	0	0	1	0
+
 The mean of the sample is an estimate of the population mean. It might not be a very precise estimate, since the sample size is only 5.
 
 #### Example: Central limit theorem; mean of a small sample
@@ -127,6 +128,7 @@ Imagine you repeat this process 10 times, randomly sampling five people and calc
 
 #### Example: Central limit theorem; means of 10 small samples
 0	0	0.4	0.2	0.2	0	0.4	0
+
 If you repeat this process many more times, the distribution will look something like this:
 
 <img src = "https://cdn.scribbr.com/wp-content/uploads/2022/07/central-limit-theorem-small-samples.png" width = 50% height = 50%>
