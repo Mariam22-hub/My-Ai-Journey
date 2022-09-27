@@ -29,9 +29,9 @@ The mean of the sampling distribution is the mean of the population.
   #### μM = μ
   
 The standard deviation of the sampling distribution is the standard deviation of the population divided by the square root of the sample size.
-  ![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FAskStatistics%2Fcomments%2Fbinfy8%2Fabout_the_standard_deviation_of_sample_mean%2F&psig=AOvVaw3fCDsP-HM7Sk4kXqZ7PA7B&ust=1664399736821000&source=images&cd=vfe&ved=2ahUKEwjB6fGp8rX6AhU0g_0HHToPBuAQjRx6BAgAEAs)
-Where:
+  ![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT18xdqNAPuZRUxOAYlTBPP7bY424Mxankd-Ixh0oplxSFSIx2UgSXOLNxjmposkgwVpQ&usqp=CAU)
 
+Where:
 - X̄ is the sampling distribution of the sample means
 - N is the normal distribution
 - µ is the mean of the population
