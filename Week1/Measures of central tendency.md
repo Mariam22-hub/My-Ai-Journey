@@ -88,3 +88,5 @@ The population mean is indicated by the Greek symbol µ (pronounced ‘mu’). W
 ### Symmetrical distributions:
 
 When a distribution is symmetrical, the mode, median and mean are all in the middle of the distribution. The following graph shows a larger retirement age dataset with a distribution which is symmetrical. The mode, median and mean all equal 58 years.
+
+![image](https://www.abs.gov.au/websitedbs/d3310114.nsf/0/2fd8fd2439376b47ca25860e000b8c64/Body/0.219A!OpenElement&FieldElemFormat=gif)
