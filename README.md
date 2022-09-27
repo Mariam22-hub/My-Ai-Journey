@@ -66,4 +66,4 @@ Udacity's [Introduction to Descriptive Statistics](https://www.udacity.com/cours
 #### 1. Numpy
 I got my hands dirty on Numpy, which was actually my first time using it. I got introduced to how powerful and useful Numpy can be with all it's arrays and various functions. So, because i wanted to become familiarized with it's capabilities and build up my skills, i spent this week practising
 
-For excersising, i found this extremely helpful [101 Numpy Excercises Website](https://www.machinelearningplus.com/python/101-numpy-exercises-python/).
+For excercising, i found this extremely helpful [101 Numpy Excercises Website](https://www.machinelearningplus.com/python/101-numpy-exercises-python/).
