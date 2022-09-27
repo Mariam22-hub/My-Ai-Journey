@@ -31,7 +31,7 @@ In some cases, particularly where the data are continuous, the distribution may 
 
 In cases such as these, it may be better to consider using the median or mean, or group the data in to appropriate intervals, and find the modal class.
 
-<\hr>
+<hr>
 
 ## 2. What is the median?
 
@@ -54,3 +54,29 @@ The median is less affected by outliers and skewed data than the mean, and is us
 Limitation of the median:
 
 The median cannot be identified for categorical nominal data, as it cannot be logically ordered.
+
+<hr>
+
+## 3. What is the mean?
+
+The mean is the sum of the value of each observation in a dataset divided by the number of observations. This is also known as the arithmetic average.
+
+Looking at the retirement age distribution again:
+
+54, 54, 54, 55, 56, 57, 57, 58, 58, 60, 60
+
+The mean is calculated by adding together all the values (54+54+54+55+56+57+57+58+58+60+60 = 623) and dividing by the number of observations (11) which equals 56.6 years.
+
+Advantage of the mean:
+
+The mean can be used for both continuous and discrete numeric data.
+
+Limitations of the mean:
+
+The mean cannot be calculated for categorical data, as the values cannot be summed.
+
+As the mean includes every value in the distribution the mean is influenced by outliers and skewed distributions.
+
+What else do I need to know about the mean?
+
+The population mean is indicated by the Greek symbol µ (pronounced ‘mu’). When the mean is calculated on a distribution from a sample it is indicated by the symbol x̅ (pronounced X-bar).
