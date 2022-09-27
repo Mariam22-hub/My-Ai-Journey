@@ -5,7 +5,7 @@ The central limit theorem states that if you take sufficiently large samples fro
 ## Example: Central limit theorem
 A population follows a Poisson distribution (left image). If we take 10,000 samples from the population, each with a sample size of 50, the sample means follow a normal distribution, as predicted by the central limit theorem (right image).
 
-![image](https://cdn.scribbr.com/wp-content/uploads/2022/07/Central-limit-theorem.webp)
+<img src="https://cdn.scribbr.com/wp-content/uploads/2022/07/Central-limit-theorem.webp" height = 50% width = 50% >
 
 ## What is the central limit theorem?
 The central limit theorem relies on the concept of a sampling distribution, which is the probability distribution of a statistic for a large number of samples taken from a population.
