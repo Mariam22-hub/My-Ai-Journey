@@ -26,12 +26,13 @@ A normal distribution is a symmetrical, bell-shaped distribution, with increasin
 Fortunately, you don’t need to actually repeatedly sample a population to know the shape of the sampling distribution. The parameters of the sampling distribution of the mean are determined by the parameters of the population:
 
 The mean of the sampling distribution is the mean of the population.
-  \begin{equation*}\mu_{\bar{x}}=\mu\end{equation*}
+  ![image](https://cdn.scribbr.com/wp-content/ql-cache/quicklatex.com-7f19c78f3ab7a25bf9edd19b8ba36367_l3.png)
+  
 The standard deviation of the sampling distribution is the standard deviation of the population divided by the square root of the sample size.
-  \begin{equation*}\sigma_{\bar{x}} = \dfrac{\sigma}{\sqrt{n}}\end{equation*}
+  ![image](https://cdn.scribbr.com/wp-content/ql-cache/quicklatex.com-6443a361247d9c6f5764e4503e390634_l3.png)
+  
 We can describe the sampling distribution of the mean using this notation:
-
-  \begin{equation*}\bar{X}\sim N (\mu,\dfrac{\sigma}{\sqrt{n}})\end{equation*}
+![image](https://cdn.scribbr.com/wp-content/ql-cache/quicklatex.com-34ffb4548c9499a6e0972093a9d2b1ae_l3.png)
 Where:
 
 - X̄ is the sampling distribution of the sample means
