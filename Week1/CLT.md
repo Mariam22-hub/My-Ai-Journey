@@ -74,6 +74,7 @@ Applying the central limit theorem to real distributions may help you to better 
 
 ### 1) Continuous distribution
 Suppose that you’re interested in the age that people retire in the United States. The population is all retired Americans, and the distribution of the population might look something like this:
+
 <img src= "https://cdn.scribbr.com/wp-content/uploads/2022/07/continuous-distribution.png" width = 50% height = 50%>
 
 - Age at retirement follows a left-skewed distribution. Most people retire within about five years of the mean retirement age of 65 years. However, there’s a “long tail” of people who retire much younger, such as at 50 or even 40 years old. The population has a standard deviation of 6 years.
