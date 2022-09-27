@@ -90,3 +90,40 @@ The population mean is indicated by the Greek symbol µ (pronounced ‘mu’). W
 When a distribution is symmetrical, the mode, median and mean are all in the middle of the distribution. The following graph shows a larger retirement age dataset with a distribution which is symmetrical. The mode, median and mean all equal 58 years.
 
 ![image](https://www.abs.gov.au/websitedbs/d3310114.nsf/0/2fd8fd2439376b47ca25860e000b8c64/Body/0.219A!OpenElement&FieldElemFormat=gif)
+
+
+### Skewed distributions:
+
+When a distribution is skewed the mode remains the most commonly occurring value, the median remains the middle value in the distribution, but the mean is generally ‘pulled’ in the direction of the tails. In a skewed distribution, the median is often a preferred measure of central tendency, as the mean is not usually in the middle of the distribution.
+
+A distribution is said to be positively or right skewed when the tail on the right side of the distribution is longer than the left side. In a positively skewed distribution it is common for the mean to be ‘pulled’ toward the right tail of the distribution. Although there are exceptions to this rule, generally, most of the values, including the median value, tend to be less than the mean value.
+
+The following graph shows a larger retirement age data set with a distribution which is right skewed. The data has been grouped into classes, as the variable being measured (retirement age) is continuous. The mode is 54 years, the modal class is 54-56 years, the median is 56 years and the mean is 57.2 years.
+
+![image](https://www.abs.gov.au/websitedbs/d3310114.nsf/0/2fd8fd2439376b47ca25860e000b8c64/Body/0.3B8A!OpenElement&FieldElemFormat=gif)
+
+A distribution is said to be negatively or left skewed when the tail on the left side of the distribution is longer than the right side. In a negatively skewed distribution, it is common for the mean to be ‘pulled’ toward the left tail of the distribution. Although there are exceptions to this rule, generally, most of the values, including the median value, tend to be greater than the mean value.
+
+The following graph shows a larger retirement age dataset with a distribution which left skewed. The mode is 65 years, the modal class is 63-65 years, the median is 63 years and the mean is 61.8 years.
+
+![image](https://www.abs.gov.au/websitedbs/d3310114.nsf/0/2fd8fd2439376b47ca25860e000b8c64/Body/0.53F2!OpenElement&FieldElemFormat=gif)
+
+<hr>
+
+## How do outliers influence the measures of central tendency?
+
+Outliers are extreme, or atypical data value(s) that are notably different from the rest of the data.
+
+It is important to detect outliers within a distribution, because they can alter the results of the data analysis. The mean is more sensitive to the existence of outliers than the median or mode.
+
+Consider the initial retirement age dataset again, with one difference; the last observation of 60 years has been replaced with a retirement age of 81 years. This value is much higher than the other values, and could be considered an outlier. However, it has not changed the middle of the distribution, and therefore the median value is still 57 years.
+
+54, 54, 54, 55, 56, 57, 57, 58, 58, 60, 81
+
+As the all values are included in the calculation of the mean, the outlier will influence the mean value.
+
+(54+54+54+55+56+57+57+58+58+60+81 = 644), divided by 11 = 58.5 years
+
+In this distribution the outlier value has increased the mean value.
+
+Despite the existence of outliers in a distribution, the mean can still be an appropriate measure of central tendency, especially if the rest of the data is normally distributed. If the outlier is confirmed as a valid extreme value, it should not be removed from the dataset. Several common regression techniques can help reduce the influence of outliers on the mean value.
