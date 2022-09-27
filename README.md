@@ -63,7 +63,7 @@ I'll be adding more topics to the tables and updating this description as i go a
 
 Udacity's [Introduction to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827) is a great source for either revising or learning about descriptive statistics from scratch
 
-#### 1. Numpy
+#### 2. Numpy
 I got my hands dirty on Numpy, which was actually my first time using it. I got introduced to how powerful and useful Numpy can be with all it's arrays and various functions. So, because i wanted to become familiarized with it's capabilities and build up my skills, i spent this week practising
 
 For excercising, i found this extremely helpful [101 Numpy Excercises Website](https://www.machinelearningplus.com/python/101-numpy-exercises-python/).
