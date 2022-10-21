@@ -42,7 +42,7 @@ The mean of a discrete probability distribution gives the weighted average of al
 The discrete probability distribution variance gives the dispersion of the distribution about the mean. It can be defined as the average of the squared differences of the distribution from the mean, μ
 . The formula is given below:
 
-**Var[X] = ∑(x - μ)2 P(X = x)**
+**Var[X] = ∑(x - μ)^2 P(X = x)**
 
 
 ### Discrete Probability Distribution Types
@@ -52,19 +52,19 @@ A discrete probability distribution is used in a Monte Carlo simulation to find 
 
 A Bernoulli distribution is a type of a discrete probability distribution where the random variable can either be equal to 0 (failure) or be equal to 1 (success). The probability of getting a success is p and that of a failure is 1 - p. It is denoted as X ∼ Bernoulli (p). The pmf is expressed as follows:
 
-P(X = x) = {p,if x = 11 - p, if x = 0}
+**P(X = x) = {p,if x = 11 - p, if x = 0}**
 
 #### 2) Binomial Distribution
 
 A binomial distribution is a discrete probability distribution that gives the success probability in n Bernoulli trials. The probability of getting a success is given by p. It is represented as X ∼ Binomial(n, p). The pmf is given as follows:
-P(X = x) = (nx) p^x (1−p)^n−x
+**P(X = x) = (nx) p^x (1−p)^n−x**
 
 
 #### 3) Geometric Distribution
 
 A geometric distribution is another type of discrete probability distribution that represents the probability of getting a number of successive failures till the first success is obtained. It is given by X ∼ G(p). The formula for the pmf is given as follows:
 
-P(X = x) = (1 - p)^x p, where p is the success probability of the trial.
+**P(X = x) = (1 - p)^x p**, where p is the success probability of the trial.
 
 #### 4) Poisson Distribution
 
