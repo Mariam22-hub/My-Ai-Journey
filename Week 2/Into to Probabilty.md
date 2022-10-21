@@ -13,7 +13,7 @@ For example, the probability of flipping a coin and it being heads is ½, becaus
 
 ### Single Events
 
-Example
+Example:
 
 There are 6 beads in a bag, 3 are red, 2 are yellow and 1 is blue. What is the probability of picking a yellow?
 
@@ -53,3 +53,37 @@ On the other hand, suppose we have a bag containing 2 red and 2 blue balls. If w
 ### Possibility Spaces
 
 When working out what the probability of two things happening is, a probability/ possibility space can be drawn. For example, if you throw two dice, what is the probability that you will get: a) 8, b) 9, c) either 8 or 9?
+
+a) The black blobs indicate the ways of getting 8 (a 2 and a 6, a 3 and a 5, ...). There are 5 different ways. The probability space shows us that when throwing 2 dice, there are 36 different possibilities (36 squares). With 5 of these possibilities, you will get 8. Therefore P(8) = 5/36 .
+b) The red blobs indicate the ways of getting 9. There are four ways, therefore P(9) = 4/36 = 1/9.
+c) You will get an 8 or 9 in any of the 'blobbed' squares. There are 9 altogether, so P(8 or 9) = 9/36 = 1/4 .
+
+
+<hr/>
+
+### Probability Trees
+
+Another way of representing 2 or more events is on a probability tree.
+
+Example:
+
+There are 3 balls in a bag: red, yellow and blue. One ball is picked out, and not replaced, and then another ball is picked out.
+
+<img src = "https://revisionworld.com/sites/revisionworld.com/files/imce/ptree.gif" width = 50% height = 50%>
+
+The first ball can be red, yellow or blue. The probability is 1/3 for each of these. If a red ball is picked out, there will be two balls left, a yellow and blue. The probability the second ball will be yellow is 1/2 and the probability the second ball will be blue is 1/2. The same logic can be applied to the cases of when a yellow or blue ball is picked out first.
+
+In this example, the question states that the ball is not replaced. If it was, the probability of picking a red ball (etc.) the second time will be the same as the first (i.e. 1/3).
+
+
+<hr/>
+
+### The AND and OR rules (HIGHER TIER)
+
+In the above example, the probability of picking a red first is 1/3 and a yellow second is 1/2. The probability that a red AND then a yellow will be picked is 1/3 × 1/2 = 1/6 (this is shown at the end of the branch). The rule is:
+
+If two events A and B are independent (this means that one event does not depend on the other), then the probability of both A and B occurring is found by multiplying the probability of A occurring by the probability of B occurring.
+The probability of picking a red OR yellow first is 1/3 + 1/3 = 2/3. The rule is:
+
+If we have two events A and B and it isn't possible for both events to occur, then the probability of A or B occuring is the probability of A occurring + the probability of B occurring.
+On a probability tree, when moving from left to right we multiply and when moving down we add.
