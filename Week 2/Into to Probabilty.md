@@ -111,21 +111,14 @@ In the sidewalk example, where AA is "the sidewalk is wet" and BB is "it rained 
 
 1. A couple has two children, the older of which is a boy. What is the probability that they have two boys?
 2. A couple has two children, one of which is a boy. What is the probability that they have two boys?
-Define three events, AA, BB, and CC, as follows:
 
-\begin{aligned} A & = \mbox{ both children are boys}\\ B & = \mbox{ the older child is a boy}\\ C & = \mbox{ one of their children is a boy.} \end{aligned}
-A
-B
-C
-​
-  
-= both children are boys
-= the older child is a boy
-= one of their children is a boy.
-​
- 
+Define three events A, B, and C as follows:
 
-Question 1 is asking for P(A ∣ B), and Question 2 is asking for P(A ∣ C). The first is computed using the simpler version of Bayes’ theorem:
+- A = both children are boys 
+- B = the older child is a boy
+- C = one of their children is a boy
+
+ Question 1 is asking for P(A ∣ B), and Question 2 is asking for P(A ∣ C). The first is computed using the simpler version of Bayes’ theorem:
 
 P(A | B) = P (B | A)P(A) / P(B) = 1/2 
 
