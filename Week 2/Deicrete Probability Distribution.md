@@ -44,6 +44,7 @@ The discrete probability distribution variance gives the dispersion of the distr
 
 **Var[X] = ∑(x - μ)^2 P(X = x)**
 
+<br/>
 
 ### Discrete Probability Distribution Types
 A discrete probability distribution is used in a Monte Carlo simulation to find the probabilities of different outcomes. The most commonly used types of discrete probability distributions are given below.
