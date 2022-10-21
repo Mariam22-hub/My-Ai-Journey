@@ -87,3 +87,51 @@ The probability of picking a red OR yellow first is 1/3 + 1/3 = 2/3. The rule is
 
 If we have two events A and B and it isn't possible for both events to occur, then the probability of A or B occuring is the probability of A occurring + the probability of B occurring.
 On a probability tree, when moving from left to right we multiply and when moving down we add.
+
+<hr/>
+
+## Bayes' Theorem and Conditional Probability
+
+Bayes' theorem is a formula that describes how to update the probabilities of hypotheses when given evidence. It follows simply from the axioms of conditional probability, but can be used to powerfully reason about a wide range of problems involving belief updates.
+
+Given a hypothesis HH and evidence EE, Bayes' theorem states that the relationship between the probability of the hypothesis before getting the evidence P(H)P and the probability of the hypothesis after getting the evidence P(H ∣ E) is **P(H | E) = P(E | H) * P(H) / P(E)**
+
+Many modern machine learning techniques rely on Bayes' theorem. For instance, spam filters use Bayesian updating to determine whether an email is real or spam, given the words in the email. Additionally, many specific techniques in statistics, such as calculating pp-values or interpreting medical results, are best described in terms of how they contribute to updating hypotheses using Bayes' theorem.
+
+<br/>
+
+Bayes' theorem centers on relating different conditional probabilities. A conditional probability is an expression of how probable one event is given that some other event occurred (a fixed value). For instance, "what is the probability that the sidewalk is wet?" will have a different answer than "what is the probability that the sidewalk is wet given that it rained earlier?"
+
+For a joint probability distribution over events A and B, P(A and B)P(A∩B), the conditional probability of A given B is defined as **P(A|B) = P(A and B) / P(B)
+
+In the sidewalk example, where AA is "the sidewalk is wet" and BB is "it rained earlier," this expression reads as "the probability the sidewalk is wet given that it rained earlier is equal to the probability that the sidewalk is wet and it rains over the probability that it rains."
+
+<br/>
+#### Example:
+
+1. A couple has two children, the older of which is a boy. What is the probability that they have two boys?
+2. A couple has two children, one of which is a boy. What is the probability that they have two boys?
+Define three events, AA, BB, and CC, as follows:
+
+\begin{aligned} A & = \mbox{ both children are boys}\\ B & = \mbox{ the older child is a boy}\\ C & = \mbox{ one of their children is a boy.} \end{aligned}
+A
+B
+C
+​
+  
+= both children are boys
+= the older child is a boy
+= one of their children is a boy.
+​
+ 
+
+Question 1 is asking for P(A ∣ B), and Question 2 is asking for P(A ∣ C). The first is computed using the simpler version of Bayes’ theorem:
+
+P(A | B) = P (B | A)P(A) / P(B) = 1/2 
+
+To find P(A ∣ C), we must determine P(C), the prior probability that the couple has at least one boy. This is equal to 1 - P(both children are girls) = 1 - 1/4 = 3/4
+
+Therefore the desired probability is:
+P(A | C) = P(A)P(C | A) / P(C) = 1/3
+
+
