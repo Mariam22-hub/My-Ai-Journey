@@ -5,7 +5,8 @@ Starting from Data Analysis to Deep Learning, i'll be posting all the projects i
 *So whish me Luck :))*
 
 I'll be studying from [**Andre Ng Machine Learning Specialization**](https://www.udemy.com/course/python-for-machine-learning-data-science-masterclass/) for theoritcal learning, as well as [**Alexey Gregorev's ML zoomcamp**](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp) for a more practical approach.
-As for a book reference, my choice is [**Hands-on Machine Learning with Scikit-Learn, Keras, and Tensorflow by Aurelien Geron**](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646)
+As for a book reference, my choice is [**Introduction to Machine Learning with Python
+by Andreas C. Müller, Sarah Guido**](https://www.oreilly.com/library/view/introduction-to-machine/9781449369880/)
 
 I'll be adding more topics to the tables and updating this description as i go along
 
