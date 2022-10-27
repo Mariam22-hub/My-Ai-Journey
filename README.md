@@ -60,3 +60,18 @@ Udacity's [Introduction to Descriptive Statistics](https://www.udacity.com/cours
 I got my hands dirty on Numpy, which was actually my first time using it. I got introduced to how powerful and useful Numpy can be with all it's arrays and various functions. So, because i wanted to become familiarized with it's capabilities and build up my skills, i spent this week practising
 
 For excercising, i found this extremely helpful [101 Numpy Excercises Website](https://www.machinelearningplus.com/python/101-numpy-exercises-python/).
+
+### [Week 2](https://github.com/Mariam22-hub/My-Ai-Journey/tree/main/Week%202)
+- Probability
+- Pandas
+
+#### 1. Probabilty
+For this week, i revised on some of the topics in Probabilty
+- [An intro to Probability](https://github.com/Mariam22-hub/My-Ai-Journey/blob/main/Week%202/Into%20to%20Probabilty.md) (Types of Probability, Sample spaces, Bayes' Theorm)
+- [Random Variables](https://github.com/Mariam22-hub/My-Ai-Journey/blob/main/Week%202/Probability%20Distribution%20%26%20Random%20Variables.md) (Discrete and Continous random variables)
+- [Discrete Probabilty Distribution](https://github.com/Mariam22-hub/My-Ai-Journey/blob/main/Week%202/Deicrete%20Probability%20Distribution.md) (Binomial, Bernoulli, Geometric,Hypergeometric, and Poisson distributions)
+
+#### 2. Pandas
+As my first time hitting Pandas, it took me the whole week learning and exercising. Fortunately, i got to learn all the basics and gained the nencessary knowledge for Machine Learning
+
+For excercising, i found this extremely helpful [101 Pandas Exercises Website](https://www.machinelearningplus.com/python/101-pandas-exercises-python/).
