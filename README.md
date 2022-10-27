@@ -17,9 +17,7 @@ I'll be adding more topics to the tables and updating this description as i go a
 | SQL | :heavy_check_mark: |
 | Python Database Connectivity | --- |
 | Web Scarping | :heavy_check_mark: |
-| Linear Algebra | :heavy_check_mark: |
-| Single-variable calculus | :heavy_check_mark: |
-| Multi-variable calculus | :heavy_check_mark: |
+| Mathematics for Machine Learning | :heavy_check_mark: |
 | Descriptive Statistics | :heavy_check_mark: |
 | Probablity | --- |
 | Inferential Statistics | --- |
