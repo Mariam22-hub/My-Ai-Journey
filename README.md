@@ -61,7 +61,7 @@ I got my hands dirty on Numpy, which was actually my first time using it. I got 
 
 For excercising, i found this extremely helpful [101 Numpy Excercises Website](https://www.machinelearningplus.com/python/101-numpy-exercises-python/).
 
-<br/>
+<hr/>
 
 ### - [Week 2](https://github.com/Mariam22-hub/My-Ai-Journey/tree/main/Week%202):
 - Probability
