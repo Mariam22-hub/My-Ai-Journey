@@ -10,7 +10,7 @@ by Andreas C. Müller, Sarah Guido**](https://www.oreilly.com/library/view/intro
 
 I'll be adding more topics to the tables and updating this description as i go along
 
-## Machine Learning
+## Pre-Machine Learning
 | Topic to Learn ( Machine Learning ) | Progress |                              
 | --- | --- |
 | Python Programming | :heavy_check_mark: |
@@ -24,9 +24,8 @@ I'll be adding more topics to the tables and updating this description as i go a
 | Probablity | --- |
 | Inferential Statistics | --- |
 | Numpy | :heavy_check_mark: |
-| Pandas | --- | 
-| Intro to Machine Learning | -- |
-| Linear Regressions | -- |
+| Pandas | :heavy_check_mark: |
+| Matplotlip| --- |
 
 <br>
 <hr/>
