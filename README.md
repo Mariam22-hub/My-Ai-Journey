@@ -44,7 +44,7 @@ I'll be adding more topics to the tables and updating this description as i go a
 
 <br>
 
-### [Week 1](https://github.com/Mariam22-hub/My-Ai-Journey/tree/main/Week1):
+### - [Week 1](https://github.com/Mariam22-hub/My-Ai-Journey/tree/main/Week1):
 1. Descriptive Statistics
 2. Numpy
 
@@ -61,7 +61,9 @@ I got my hands dirty on Numpy, which was actually my first time using it. I got 
 
 For excercising, i found this extremely helpful [101 Numpy Excercises Website](https://www.machinelearningplus.com/python/101-numpy-exercises-python/).
 
-### [Week 2](https://github.com/Mariam22-hub/My-Ai-Journey/tree/main/Week%202)
+<br/>
+
+### - [Week 2](https://github.com/Mariam22-hub/My-Ai-Journey/tree/main/Week%202):
 - Probability
 - Pandas
 
